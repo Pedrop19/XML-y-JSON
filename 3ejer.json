@@ -1,0 +1,41 @@
+[
+    {
+        "n_pais": "España",
+        "sede": "Madrid",
+        "fundacion": 1920,
+        "entrenador": {
+            "nombre": "Luis Enrique",
+            "edad": 52
+        },
+        "capitan": {
+            "nombre": "Jordi Alba",
+            "edad": 34
+        }
+    },
+    {
+        "n_pais": "Francia",
+        "sede": "Paris",
+        "fundacion": 1904,
+        "entrenador": {
+            "nombre": "Didier Deschamps",
+            "edad": 54
+        },
+        "capitan": {
+            "nombre": "Olivier Giroud",
+            "edad": 36
+        }
+    },
+    {
+        "n_pais": "Portugal",
+        "sede": "Lisboa",
+        "fundacion": 1921,
+        "entrenador": {
+            "nombre": "Roberto Martinez",
+            "edad": 52
+        },
+        "capitan": {
+            "nombre": "Cristiano Ronaldo",
+            "edad": 34
+        }
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seleccion>
+    <pais>
+        <n_pais>ESPAÑA</n_pais>
+        <sede>MADRID</sede>
+        <fundacion>1920</fundacion>
+        <entrenador>
+            <nombre>LUIS ENRIQUE</nombre>
+            <edad>52</edad>
+        </entrenador>
+        <capitan>
+            <nombre>JORDI ALBA</nombre>
+            <edad>34</edad>
+        </capitan>
+    </pais>
+    <pais>
+        <n_pais>FRANCIA</n_pais>
+        <sede>PARIS</sede>
+        <fundacion>1904</fundacion>
+        <entrenador>
+            <nombre>DIDIER DESCHAMPS</nombre>
+            <edad>54</edad>
+        </entrenador>
+        <capitan>
+            <nombre>OLIVIER GIROUD</nombre>
+            <edad>36</edad>
+        </capitan>
+    </pais>
+    <pais>
+        <n_pais>PORTUGAL</n_pais>
+        <sede>LISBOA</sede>
+        <fundacion>1921</fundacion>
+        <entrenador>
+            <nombre>ROBERTO MARTINEZ</nombre>
+            <edad>49</edad>
+        </entrenador>
+        <capitan>
+            <nombre>CRISTIANO RONALDO</nombre>
+            <edad>38</edad>
+        </capitan>
+    </pais>
+
+</seleccion>

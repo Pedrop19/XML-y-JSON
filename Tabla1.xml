@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instituto>
+    <curso id="asir1">
+        <nombre>ASIR1</nombre>
+        <aula>5</aula>
+        <planta>0</planta>
+    </curso>
+    <curso id="dam1">
+        <nombre>ASIR1</nombre>
+        <aula>106</aula>
+        <planta>1</planta>
+    </curso>
+    <curso id="daw1">
+        <nombre>ASIR1</nombre>
+        <aula>203</aula>
+        <planta>2</planta>
+    </curso>
+</instituto>

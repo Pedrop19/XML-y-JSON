@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <pelicula id="titanic">
+        <titulo>TITANIC</titulo>
+        <fecha>
+            <dia>8</dia>
+            <mes>1</mes>
+            <anio>1998</anio>
+        </fecha>
+    </pelicula>
+    <pelicula id="padrino">
+        <titulo>EL PADRINO</titulo>
+        <fecha>
+            <dia>20</dia>
+            <mes>10</mes>
+            <anio>1972</anio>
+        </fecha>
+    </pelicula>
+    <pelicula id="iron_man">
+        <titulo>IRON MAN</titulo>
+        <fecha>
+            <dia>30</dia>
+            <mes>4</mes>
+            <anio>2008</anio>
+        </fecha>
+    </pelicula>
+    <pelicula id="harrypotter">
+        <titulo>HARRY POTTER Y LA PIEDRA FILOSOFAL</titulo>
+        <fecha>
+            <dia>30</dia>
+            <mes>11</mes>
+            <anio>2001</anio>
+        </fecha>
+    </pelicula>
+</catalogo>
+
